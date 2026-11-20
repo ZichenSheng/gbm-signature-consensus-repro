@@ -1,0 +1,11 @@
+# local outputs and environments
+example_output/
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+# never commit cohort data
+*.h5ad
+*.pkl
+*.npz

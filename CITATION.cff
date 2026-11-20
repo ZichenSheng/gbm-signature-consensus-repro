@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived version you used."
+title: "Reproducibility code for the ecological consensus of published glioblastoma prognostic signatures"
+type: software
+version: "0.1.0"
+license: MIT
+repository-code: "https://github.com/ZichenSheng/gbm-signature-consensus-repro"
+authors:
+  - family-names: Sheng
+    given-names: Zichen
+  - family-names: Wei
+    given-names: Mingze
+  - family-names: Lei
+    given-names: Kunjian
+  - family-names: Zhu
+    given-names: Xingen
+abstract: >-
+  Study-specific Python analysis functions, frozen definitions and a synthetic example
+  accompanying the manuscript Published glioblastoma prognostic signatures share an
+  ecological consensus that underrepresents a driver-associated malignant-programme balance.
+  The package supports selected signature scoring, consensus, reference-coordinate,
+  matched-collection, recovery, driver-associated variance and ICC computations from
+  independently assembled cohort inputs. Original Python code is licensed under MIT.
+  Original data curation and derived aggregate outputs are licensed under CC BY 4.0,
+  with upstream material subject to its source terms.
